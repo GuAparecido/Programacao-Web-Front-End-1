@@ -1,0 +1,10 @@
+.frontCard {
+    background-color:grey;
+    width: 500px;
+    height: 200px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    position: absolute;
+    z-index: 2;
+    
+}

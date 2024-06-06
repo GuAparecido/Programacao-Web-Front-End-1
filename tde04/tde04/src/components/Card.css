@@ -1,0 +1,18 @@
+.backCard {
+    background-color:blue;
+    width: 500px;
+    height: 300px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    position: absolute;
+    z-index: 1;
+    
+}
+
+.segundoTitulo {
+    text-align: end;
+}
+
+.preco {
+    text-align: end;
+}
